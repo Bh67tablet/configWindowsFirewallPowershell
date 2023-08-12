@@ -1,6 +1,8 @@
 # why
 Microsoft update and add powershell rules with every update
 
+does it make windows a little more secure?
+
 # automatic config windows Firewall with Powershell
 ![Firewall Profile ](FirewallProfile.jpg)
 ## setup 

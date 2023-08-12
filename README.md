@@ -18,3 +18,4 @@ https://github.com/Bh67tablet/configWindowsFirewallPowershell/blob/6c058e6611c20
 ## powershell script
 delete all windows default firwall rules and add only core port rules https, mail, ...
 https://github.com/Bh67tablet/configWindowsFirewallPowershell/blob/19e27612be8a5ea8fdb78dc8882a39e8b835d9dd/WindowsFirewallRolesSetup.ps1#L1-L108
+![Firewall Rules ](FirewallRegeln.jpg)

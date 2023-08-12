@@ -1,3 +1,6 @@
+# why
+Microsoft update and add powershell rules with every update
+
 # automatic config windows Firewall with Powershell
 ![Firewall Profile ](FirewallProfile.jpg)
 ## setup 
@@ -6,9 +9,11 @@ download, extract and run setup.cmd with admin
 ### setup.cmd
 run as admin
 this add runscript to scheduler
+https://github.com/Bh67tablet/configWindowsFirewallPowershell/blob/6c058e6611c20f937ee1b3690349efec1e9e9bb0/setup.cmd#L1-L8
 
 ## run script
 run powershell script and virus update and virus scan automatically
+https://github.com/Bh67tablet/configWindowsFirewallPowershell/blob/6c058e6611c20f937ee1b3690349efec1e9e9bb0/startAutoSecure.cmd#L1-L8
 
 ## powershell script
 delete all windows default firwall rules and add only core port rules https, mail, ...

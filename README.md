@@ -8,6 +8,8 @@ does it make windows a little more secure?
 ## setup 
 download, extract and run setup.cmd with admin
 
+C:\AutoSecure
+
 ### setup.cmd
 run as admin
 this add runscript to scheduler

@@ -1,4 +1,4 @@
-# why
+# Windows 11
 Microsoft update and add powershell rules with every update
 
 does it make windows a little more secure?
